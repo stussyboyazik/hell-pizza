@@ -1,6 +1,7 @@
 body {
   width: 1920px;
   background: #7C1616;
+  text-align: center;
 }
 
 .circle {
@@ -284,130 +285,420 @@ body {
   }
 
   .pepper {
-    left: 417px;
-    top: 210px;
+    left: 428px;
+    top: 182px;
   }
   .pepper img {
-    width: 168px;
-    height: 340px;
+    width: 141px;
+    height: 286px;
   }
 
   .pineapple {
-    left: 808px;
-    top: 143px;
+    left: 756px;
+    top: 126px;
   }
   .pineapple img {
-    width: 243px;
-    height: 354px;
+    width: 204px;
+    height: 298px;
   }
 
   .tomato {
-    left: 640px;
-    top: 594px;
+    left: 615px;
+    top: 505px;
   }
   .tomato img {
-    width: 178px;
-    height: 194px;
+    width: 149px;
+    height: 163px;
   }
 
   .mushroom1 {
-    left: 878px;
-    top: 530px;
+    left: 815px;
+    top: 452px;
   }
   .mushroom1 img {
-    width: 108px;
-    height: 108px;
+    width: 91px;
+    height: 91px;
   }
 
   .mushroom2 {
-    left: 468px;
-    top: 562px;
+    left: 471px;
+    top: 479px;
   }
   .mushroom2 img {
-    width: 108px;
-    height: 112px;
+    width: 91px;
+    height: 94px;
   }
 
   .mushroom3 {
-    left: 633px;
-    top: 137px;
+    left: 610px;
+    top: 121px;
   }
   .mushroom3 img {
-    width: 105px;
-    height: 110px;
+    width: 88px;
+    height: 93px;
   }
 
   .head {
-    left: 219px;
-    top: 1897px;
+    left: 209px;
+    top: 1536px;
   }
   .head img {
-    width: 938px;
-    height: 717px;
+    width: 897px;
+    height: 686px;
   }
 
   .logo-big {
-    left: 456px;
-    top: 204px;
+    left: 454px;
+    top: 151px;
   }
   .logo-big img {
-    width: 528px;
-    height: 492px;
+    width: 458px;
+    height: 427px;
   }
 
   .hell-pizza {
-    left: 516px;
-    top: 706px;
-    font-size: 40px;
+    left: 514px;
+    top: 592px;
+    font-size: 30px;
   }
 
   .text1 {
-    left: 417px;
-    top: 1091px;
+    left: 380px;
+    top: 901px;
   }
   .text1 img {
-    width: 544px;
-    height: 101px;
+    width: 536px;
+    height: 100px;
   }
 
   .text2 {
-    left: 201px;
-    top: 1246px;
+    left: 184px;
+    top: 1053px;
   }
   .text2 img {
-    width: 974px;
-    height: 104px;
+    width: 930px;
+    height: 99px;
   }
 
   .text3 {
-    left: 59px;
-    top: 1408px;
+    left: 53px;
+    top: 1201px;
   }
   .text3 img {
-    width: 1322px;
-    height: 119px;
+    width: 1259px;
+    height: 113px;
   }
 
   .head2 {
-    top: 1878px;
+    top: 1551px;
     left: 0;
   }
   .head2 img {
-    width: 1440px;
-    height: 1034px;
+    width: 1366px;
+    height: 981px;
   }
 
   .pizza {
-    left: 499px;
-    top: 1956px;
+    left: 504px;
+    top: 1657px;
   }
   .pizza img {
-    width: 759px;
-    height: 759px;
+    width: 638px;
+    height: 638px;
   }
 
   .footer {
-    font-size: 20px;
+    font-size: 18px;
+  }
+}
+@media (max-width: 1024px) {
+  .circle {
+    width: 579px;
+    height: 579px;
+    left: 223px;
+    top: 94px;
+    border: 20px solid #EC8706;
+  }
+
+  .logo {
+    left: 398px;
+    top: 274px;
+  }
+  .logo img {
+    width: 229px;
+    height: 214px;
+  }
+
+  .pepper {
+    left: 281px;
+    top: 201px;
+  }
+  .pepper img {
+    width: 128px;
+    height: 259px;
+  }
+
+  .pineapple {
+    left: 579px;
+    top: 150px;
+  }
+  .pineapple img {
+    width: 185px;
+    height: 270px;
+  }
+
+  .tomato {
+    left: 451px;
+    top: 494px;
+  }
+  .tomato img {
+    width: 136px;
+    height: 148px;
+  }
+
+  .mushroom1 {
+    left: 632px;
+    top: 445px;
+  }
+  .mushroom1 img {
+    width: 82px;
+    height: 82px;
+  }
+
+  .mushroom2 {
+    left: 320px;
+    top: 470px;
+  }
+  .mushroom2 img {
+    width: 82px;
+    height: 85px;
+  }
+
+  .mushroom3 {
+    left: 446px;
+    top: 145px;
+  }
+  .mushroom3 img {
+    width: 80px;
+    height: 84px;
+  }
+
+  .head {
+    left: 111px;
+    top: 1536px;
+  }
+  .head img {
+    width: 802px;
+    height: 613px;
+  }
+
+  .logo-big {
+    left: 328px;
+    top: 194px;
+  }
+  .logo-big img {
+    width: 367px;
+    height: 342px;
+  }
+
+  .hell-pizza {
+    left: 388px;
+    top: 552px;
+    font-size: 25px;
+  }
+
+  .text1 {
+    left: 299px;
+    top: 963px;
+  }
+  .text1 img {
+    width: 385px;
+    height: 69px;
+  }
+
+  .text2 {
+    left: 140px;
+    top: 1077px;
+  }
+  .text2 img {
+    width: 701px;
+    height: 74px;
+  }
+
+  .text3 {
+    left: 45px;
+    top: 1194px;
+  }
+  .text3 img {
+    width: 932px;
+    height: 80px;
+  }
+
+  .head2 {
+    top: 1590px;
+    left: 0;
+  }
+  .head2 img {
+    width: 1024px;
+    height: 735px;
+  }
+
+  .pizza {
+    left: 317px;
+    top: 1633px;
+  }
+  .pizza img {
+    width: 579px;
+    height: 579px;
+  }
+
+  .footer {
+    font-size: 16px;
+  }
+}
+@media (max-width: 768px) {
+  .circle {
+    width: 409px;
+    height: 409px;
+    left: 180px;
+    top: 103px;
+    border: 20px solid #EC8706;
+  }
+
+  .logo {
+    left: 304px;
+    top: 230px;
+  }
+  .logo img {
+    width: 161px;
+    height: 151px;
+  }
+
+  .pepper {
+    left: 221px;
+    top: 178px;
+  }
+  .pepper img {
+    width: 91px;
+    height: 183px;
+  }
+
+  .pineapple {
+    left: 432px;
+    top: 142px;
+  }
+  .pineapple img {
+    width: 131px;
+    height: 191px;
+  }
+
+  .tomato {
+    left: 341px;
+    top: 385px;
+  }
+  .tomato img {
+    width: 96px;
+    height: 104px;
+  }
+
+  .mushroom1 {
+    left: 469px;
+    top: 351px;
+  }
+  .mushroom1 img {
+    width: 58px;
+    height: 58px;
+  }
+
+  .mushroom2 {
+    left: 248px;
+    top: 368px;
+  }
+  .mushroom2 img {
+    width: 58px;
+    height: 60px;
+  }
+
+  .mushroom3 {
+    left: 337px;
+    top: 139px;
+  }
+  .mushroom3 img {
+    width: 56px;
+    height: 60px;
+  }
+
+  .head {
+    left: 66px;
+    top: 1223px;
+  }
+  .head img {
+    width: 637px;
+    height: 487px;
+  }
+
+  .logo-big {
+    left: 200px;
+    top: 111px;
+  }
+  .logo-big img {
+    width: 367px;
+    height: 342px;
+  }
+
+  .hell-pizza {
+    left: 260px;
+    top: 469px;
+    font-size: 25px;
+  }
+
+  .text1 {
+    left: 224px;
+    top: 661px;
+  }
+  .text1 img {
+    width: 286px;
+    height: 51px;
+  }
+
+  .text2 {
+    left: 113px;
+    top: 748px;
+  }
+  .text2 img {
+    width: 505px;
+    height: 54px;
+  }
+
+  .text3 {
+    left: 40px;
+    top: 835px;
+  }
+  .text3 img {
+    width: 688px;
+    height: 59px;
+  }
+
+  .head2 {
+    top: 1407px;
+    left: 0;
+  }
+  .head2 img {
+    width: 768px;
+    height: 600px;
+  }
+
+  .pizza {
+    left: 244px;
+    top: 1450px;
+  }
+  .pizza img {
+    width: 409px;
+    height: 409px;
+  }
+
+  .footer {
+    font-size: 16px;
   }
 }
 @media (max-width: 414px) {
@@ -492,22 +783,22 @@ body {
   }
 
   .logo-big {
-    left: 110px;
+    left: 90px;
     top: 54px;
   }
   .logo-big img {
-    width: 235px;
-    height: 212px;
+    width: 234px;
+    height: 218px;
   }
 
   .hell-pizza {
-    left: 135px;
-    top: 280px;
+    left: 132px;
+    top: 285px;
     font-size: 15px;
   }
 
   .text1 {
-    left: 118px;
+    left: 116px;
     top: 362px;
   }
   .text1 img {
@@ -516,7 +807,7 @@ body {
   }
 
   .text2 {
-    left: 58px;
+    left: 56px;
     top: 417px;
   }
   .text2 img {
@@ -525,7 +816,7 @@ body {
   }
 
   .text3 {
-    left: 18px;
+    left: 16px;
     top: 472px;
   }
   .text3 img {
@@ -553,6 +844,151 @@ body {
 
   .footer {
     font-size: 8px;
+  }
+}
+@media (max-width: 360px) {
+  .circle {
+    width: 194px;
+    height: 194px;
+    left: 83px;
+    top: 66px;
+    border: 10px solid #EC8706;
+  }
+
+  .logo {
+    left: 141px;
+    top: 126px;
+  }
+  .logo img {
+    width: 78px;
+    height: 72px;
+  }
+
+  .pepper {
+    left: 102px;
+    top: 102px;
+  }
+  .pepper img {
+    width: 43px;
+    height: 87px;
+  }
+
+  .pineapple {
+    left: 202px;
+    top: 85px;
+  }
+  .pineapple img {
+    width: 62px;
+    height: 91px;
+  }
+
+  .tomato {
+    left: 159px;
+    top: 200px;
+  }
+  .tomato img {
+    width: 45px;
+    height: 50px;
+  }
+
+  .mushroom1 {
+    left: 220px;
+    top: 184px;
+  }
+  .mushroom1 img {
+    width: 28px;
+    height: 28px;
+  }
+
+  .mushroom2 {
+    left: 115px;
+    top: 192px;
+  }
+  .mushroom2 img {
+    width: 28px;
+    height: 29px;
+  }
+
+  .mushroom3 {
+    left: 158px;
+    top: 83px;
+  }
+  .mushroom3 img {
+    width: 27px;
+    height: 28px;
+  }
+
+  .head {
+    left: 52px;
+    top: 437px;
+  }
+  .head img {
+    width: 216px;
+    height: 165px;
+  }
+
+  .logo-big {
+    left: 103px;
+    top: 30px;
+  }
+  .logo-big img {
+    width: 172px;
+    height: 161px;
+  }
+
+  .hell-pizza {
+    left: 138px;
+    top: 206px;
+    font-size: 10px;
+  }
+
+  .text1 {
+    left: 106px;
+    top: 267px;
+  }
+  .text1 img {
+    width: 132px;
+    height: 23px;
+  }
+
+  .text2 {
+    left: 57px;
+    top: 314px;
+  }
+  .text2 img {
+    width: 230px;
+    height: 24px;
+  }
+
+  .text3 {
+    left: 23px;
+    top: 362px;
+  }
+  .text3 img {
+    width: 314px;
+    height: 27px;
+  }
+
+  .head2 {
+    top: 447px;
+    left: 0;
+  }
+  .head2 img {
+    width: 360px;
+    height: 250px;
+  }
+
+  .pizza {
+    left: 122px;
+    top: 465px;
+  }
+  .pizza img {
+    width: 194px;
+    height: 194px;
+  }
+
+  .footer {
+    font-size: 6px;
   }
 }
 
